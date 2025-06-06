@@ -33,4 +33,4 @@ The goal of this project was to predict whether customers would purchase a book 
 ## Project Files
 
 - `CharlesBookClubML.ipynb` — Jupyter Notebook containing full model implementation.
-- `Case Study2.ML.pdf` — Full report with business problem, methodology, results, and recommendations.
+- `report.pdf` — Full report with business problem, methodology, results, and recommendations.
